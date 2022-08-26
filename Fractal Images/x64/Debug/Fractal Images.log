@@ -1,0 +1,10 @@
+﻿  FractalCreator.cpp
+C:\Users\nagi1\source\repos\Fractal Images\Fractal Images\FractalCreator.cpp(7,31): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\nagi1\source\repos\Fractal Images\Fractal Images\FractalCreator.cpp(132,25): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\nagi1\source\repos\Fractal Images\Fractal Images\FractalCreator.cpp(133,27): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\nagi1\source\repos\Fractal Images\Fractal Images\FractalCreator.cpp(134,26): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Fractal Images.vcxproj -> C:\Users\nagi1\source\repos\Fractal Images\x64\Debug\Fractal Images.exe
